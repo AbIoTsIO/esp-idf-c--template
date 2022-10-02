@@ -1,8 +1,19 @@
 #pragma once
 
+// C/C++ Headers
 #include <stdio.h>
 
+// Other Posix headers
+
+// IDF headers
 #include "esp_log.h"
+
+// Component headers
+
+// Public Headers
+
+// Private Headers
+
 
 extern "C"
 {
