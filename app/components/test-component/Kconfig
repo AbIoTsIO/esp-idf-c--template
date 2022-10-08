@@ -1,9 +1,4 @@
-menu "Abiots Test component"
-    
-    config ABIOTS_TEST_NAME
-        string "A test name for this component"
-        default ""
-        help
-            Default will include this in the project.
+menu "Pir component"
+  
 
-endmenu # ABiots Test Component
+endmenu # Pir Component
